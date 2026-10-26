@@ -101,4 +101,4 @@ make cross  # build with aarch64-linux-gnu-gcc, for qemu on an x86 box
 
 ## Run it in a browser
 
-https://aarch64-playground.vercel.app/playground?example=temp-convert
+https://aarch64-playground.com/playground?example=temp-convert
